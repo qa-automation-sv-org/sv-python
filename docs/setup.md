@@ -36,20 +36,20 @@ Each challenge is implemented as a standalone MCP server in its respective direc
    ```
 
 3. The server will start and listen on a specific port (each challenge uses a different port):
-   - Challenge 1: http://localhost:8001
-   - Challenge 2: http://localhost:8002
-   - Challenge 3: http://localhost:8003
-   - Challenge 4: http://localhost:8004
-   - Challenge 5: http://localhost:8005
-   - Challenge 6: http://localhost:8006
-   - Challenge 7: http://localhost:8007
-   - Challenge 8: http://localhost:8008
-   - Challenge 9: http://localhost:8009
-   - Challenge 10: http://localhost:8010
+   - Challenge 1: http://localhost:9001
+   - Challenge 2: http://localhost:9002
+   - Challenge 3: http://localhost:9003
+   - Challenge 4: http://localhost:9004
+   - Challenge 5: http://localhost:9005
+   - Challenge 6: http://localhost:9006
+   - Challenge 7: http://localhost:9007
+   - Challenge 8: http://localhost:9008
+   - Challenge 9: http://localhost:9009
+   - Challenge 10: http://localhost:9010
 
 4. Connect to the server using an MCP client:
-   - If using Claude Desktop, use the "Connect to MCP Server" option and enter the server URL
-   - If using MCP Inspector, use the "Connect" option and enter the server URL
+   -  Cline refer https://docs.cline.bot/mcp-servers/connecting-to-a-remote-server Cine supports both tools and resources
+
 
 ## MCP Client Options
 
