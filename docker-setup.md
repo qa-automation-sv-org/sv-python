@@ -46,16 +46,16 @@ This command:
 
 Once the container is running, you can access each challenge using an MCP client (e.g., Claude Desktop or MCP Inspector):
 
-- Challenge 1 (Basic Prompt Injection): http://localhost:8001
-- Challenge 2 (Tool Poisoning): http://localhost:8002
-- Challenge 3 (Excessive Permission Scope): http://localhost:8003
-- Challenge 4 (Rug Pull Attack): http://localhost:8004
-- Challenge 5 (Tool Shadowing): http://localhost:8005
-- Challenge 6 (Indirect Prompt Injection): http://localhost:8006
-- Challenge 7 (Token Theft): http://localhost:8007
-- Challenge 8 (Malicious Code Execution): http://localhost:8008
-- Challenge 9 (Remote Access Control): http://localhost:8009
-- Challenge 10 (Multi-Vector Attack): http://localhost:8010
+- Challenge 1 (Basic Prompt Injection): http://localhost:9001
+- Challenge 2 (Tool Poisoning): http://localhost:9002
+- Challenge 3 (Excessive Permission Scope): http://localhost:9003
+- Challenge 4 (Rug Pull Attack): http://localhost:9004
+- Challenge 5 (Tool Shadowing): http://localhost:9005
+- Challenge 6 (Indirect Prompt Injection): http://localhost:9006
+- Challenge 7 (Token Theft): http://localhost:9007
+- Challenge 8 (Malicious Code Execution): http://localhost:9008
+- Challenge 9 (Remote Access Control): http://localhost:9009
+- Challenge 10 (Multi-Vector Attack): http://localhost:9010
 
 ## Viewing Logs
 
