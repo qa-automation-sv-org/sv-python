@@ -4,7 +4,7 @@ This document provides instructions for building and running the Damn Vulnerable
 
 ## Overview
 
-The Docker container includes all 10 MCP challenge servers running simultaneously in a single container, managed by supervisord. Each challenge server listens on its own port (8001-8010).
+The Docker container includes all 10 MCP challenge servers running simultaneously in a single container, managed by supervisord. Each challenge server listens on its own port (9001-9010).
 
 ## Prerequisites
 
