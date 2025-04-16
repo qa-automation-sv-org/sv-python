@@ -81,7 +81,7 @@ Replace `<container_id>` with the actual container ID.
 
 If you encounter issues:
 
-1. **Port conflicts**: Ensure ports 8001-8010 are not already in use on your host machine.
+1. **Port conflicts**: Ensure ports 9001-9010 are not already in use on your host machine.
 2. **Container not starting**: Check the Docker logs with `docker logs <container_id>`.
 3. **Challenges not accessible**: Verify that the container is running with `docker ps` and that the ports are correctly mapped.
 
@@ -92,7 +92,7 @@ If you encounter issues:
 To run the container in the background:
 
 ```bash
-docker run -d -p 8001-8010:8001-8010 dvmcp
+docker run -d -p 9001-9010:9001-9010 dvmcp
 ```
 
 ### Custom Port Mapping
