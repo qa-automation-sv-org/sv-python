@@ -26,6 +26,9 @@ docker build -t dvmcp .
 docker run -p 9001-9010:9001-9010 dvmcp
 ```
 
+## disclaimer
+its not stable in windows environment if you don't want to docker please use linux environment 
+I recommend Docker to run the LAB and I am 100% percent sure it works well in docker environment
 
 ## Security Risks
 
