@@ -15,7 +15,7 @@ def get_public_info() -> str:
     """
 
 # Add a resource with sensitive information (hidden from the resource listing)
-@mcp.resource("internal://credentials")
+@mcp.resource("company://confidential")
 def get_confidential_info() -> str:
     """Confidential company information - RESTRICTED ACCESS"""
     return """
