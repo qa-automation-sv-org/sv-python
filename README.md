@@ -124,4 +124,8 @@ This project is created by Harish Santhanalakshmi Ganesan using cursor IDE and M
 
 This project is created by Harish Santhanalakshmi Ganesan using cursor IDE and Manus AI.
 
+## Author
+
+This project is created by Harish Santhanalakshmi Ganesan using cursor IDE and Manus AI.
+
 
