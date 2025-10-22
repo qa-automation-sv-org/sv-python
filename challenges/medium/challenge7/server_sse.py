@@ -37,7 +37,7 @@ class Challenge7Server:
                 # Generate a session token (vulnerable implementation)
                 timestamp = int(time.time())
                 token_data = f"{username}:{timestamp}"
-                token = hashlib.md5(token_data.encode()).hexdigest()
+
                 
                 return f"Authentication successful! Your session token is: {token}"
             else:
